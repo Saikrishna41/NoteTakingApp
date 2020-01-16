@@ -10,6 +10,9 @@ Technologies used:
 2. MVVM architecutre (Livedata and observerables for updating any changes in the notes)
 3. UI Components (RecyclerView, Material design, Floating action button to add notes)
 
+Code Base url:
+
+https://github.com/Saikrishna41/NoteTakingApp/tree/master/app/src/main/java/com/devsai/roomdemo
 
 Screenshots:
 
