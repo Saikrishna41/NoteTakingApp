@@ -8,7 +8,7 @@ Technologies used:
 
 1. Room library (For accessing and using sqlite)
 2. MVVM architecutre (Livedata and observerables for updating any changes in the notes)
-3. UI Components (RecyclerView, Material design)
+3. UI Components (RecyclerView, Material design, Floating action button to add notes)
 
 
 Screenshots:
